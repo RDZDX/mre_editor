@@ -1,0 +1,7 @@
+; mre_editor.def : Declares the module parameters for the DLL.
+
+LIBRARY      "mre_editor"
+DESCRIPTION  'mre_editor Windows Dynamic Link Library'
+
+EXPORTS
+    vm_entry @1
