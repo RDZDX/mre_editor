@@ -1,5 +1,6 @@
 # Mre_editor
-Basic app to show mre_editor for MRE platform mobile phone (including Nokia S30+). Not functional, just working demonstration, alpha version.
+Basic app to show mre_editor for MRE platform mobile phone (including Nokia S30+). Alpha version.
+If exists "mre_editor.txt" on same directory as app "mre_editor.vxp" (if change vxp name, change text file name to) app load text file automaticaly on start.
 Editet / created text file size limited by phone memory size. Before saving changes program create copy of original text file.
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
