@@ -5,6 +5,6 @@ KEY_OK show current cursor position. Editet / created text file size limited by 
 New text files saved on storage card with autoname (created by time).
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
-Application file - "[mre_editor.vxp](https://rdzdx.github.io/mre_editor/Tmre_editor.vxp)".
+Application file - "[mre_editor.vxp](https://rdzdx.github.io/mre_editor/mre_editor.vxp)".
 
 ![alt text](https://rdzdx.github.io/mre_editor/picture.jpg)
